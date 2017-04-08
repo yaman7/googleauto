@@ -6,7 +6,7 @@ describe('creating user and editing', function() {
      
 
       browser.get('https://www.google.co.in/?gfe_rd=cr&ei=aQEjWPruAuHs8AeZs4b4Aw');
-      //browser.get('https://www.facebook.com/');
+      browser.get('https://www.facebook.com/');
        
      new Google();
     //clicking Create user button
